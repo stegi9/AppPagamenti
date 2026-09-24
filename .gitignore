@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+data/
+mlflow_data/
+mlruns/
+models/
+reports/*.html
+.env
+
+# File locali non versionati
+6. Turbofan Engine Degradation Simulation Data Set/
+Turbofan RUL — Piano.pdf

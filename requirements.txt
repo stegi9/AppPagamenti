@@ -1,0 +1,16 @@
+pandas
+numpy
+scikit-learn
+xgboost
+mlflow>=3
+shap
+matplotlib
+joblib
+fastapi
+uvicorn[standard]
+prometheus-fastapi-instrumentator
+evidently>=0.7
+requests
+pytest
+httpx
+ruff
